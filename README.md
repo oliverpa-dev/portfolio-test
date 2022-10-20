@@ -1,2 +1,2 @@
 # portfolio-test
-This is the testing portfolio whenever I get inspired, it get implemented here
+This is the testing portfolio whenever I get inspired, it gets implemented here
